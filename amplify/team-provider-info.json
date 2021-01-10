@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-youtubeshoppinglist-dev-145507-authRole",
+      "UnauthRoleArn": "arn:aws:iam::602020011118:role/amplify-youtubeshoppinglist-dev-145507-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::602020011118:role/amplify-youtubeshoppinglist-dev-145507-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-youtubeshoppinglist-dev-145507-deployment",
+      "UnauthRoleName": "amplify-youtubeshoppinglist-dev-145507-unauthRole",
+      "StackName": "amplify-youtubeshoppinglist-dev-145507",
+      "StackId": "arn:aws:cloudformation:us-east-1:602020011118:stack/amplify-youtubeshoppinglist-dev-145507/882859e0-5271-11eb-aaab-0a479dbf9bdf",
+      "AmplifyAppId": "dm8sh8d6vrsdt"
+    },
+    "categories": {
+      "auth": {
+        "youtubeshoppinglist89f2a327": {}
+      }
+    }
+  }
+}

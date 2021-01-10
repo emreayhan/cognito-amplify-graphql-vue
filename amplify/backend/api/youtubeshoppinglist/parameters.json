@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "youtubeshoppinglist",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authyoutubeshoppinglist89f2a327",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
